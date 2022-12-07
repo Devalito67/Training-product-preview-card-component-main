@@ -83,7 +83,7 @@ span {
     width: 37.5rem;
     background-size: 50% 100%;
     background-position: left;
-    background-image: url(/images/image-product-desktop.jpg);
+    background-image: url(../images/image-product-desktop.jpg);
   }
 
   .artparfumtxt {
@@ -117,7 +117,7 @@ span {
     width: 21.4375rem;
     background-size: 21.4375rem 15rem;
     background-position: top;
-    background-image: url(/images/image-product-mobile.jpg);
+    background-image: url(../images/image-product-mobile.jpg);
   }
 
   .artparfumtxt {
